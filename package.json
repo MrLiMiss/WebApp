@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "拉钩重构webapp",
   "main": "gulpfile.js",
-  "dependencies": {},
+  "dependencies": {
+    "npm-check-updates": "^2.14.2"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
